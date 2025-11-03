@@ -1,13 +1,11 @@
-<img width="710" height="557" alt="Screenshot 2025-11-02 192006" src="https://github.com/user-attachments/assets/0fa31ae6-59eb-41a8-a34a-1e67fc614d1e" />
 
-
-
-
-
-
-
-c:\Users\vvane\Downloads\Screenshot 2025-11-02 192006.png
 **StudyTunes** helps students create the perfect study atmosphere.  
+
+
+<img width="637" height="420" alt="Screenshot 2025-11-02 192823" src="https://github.com/user-attachments/assets/43e0f1eb-4d98-45b3-9836-aeebef40906b" />
+<img width="628" height="222" alt="Screenshot 2025-11-02 192046" src="https://github.com/user-attachments/assets/7353ccff-b4de-490f-8457-21afada674a6" />
+
+
 Type what you're studying — the app picks fitting music styles and shares a bite-sized topic fact to help prime your brain before you dive in.
 
 > Example:  
